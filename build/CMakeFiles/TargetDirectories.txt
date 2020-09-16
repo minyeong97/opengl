@@ -1,0 +1,8 @@
+/home/vimsiin/Desktop/opengl/build/CMakeFiles/rebuild_cache.dir
+/home/vimsiin/Desktop/opengl/build/CMakeFiles/edit_cache.dir
+/home/vimsiin/Desktop/opengl/build/src/CMakeFiles/rebuild_cache.dir
+/home/vimsiin/Desktop/opengl/build/src/CMakeFiles/edit_cache.dir
+/home/vimsiin/Desktop/opengl/build/src/CMakeFiles/opengl.dir
+/home/vimsiin/Desktop/opengl/build/src/gl3w/CMakeFiles/rebuild_cache.dir
+/home/vimsiin/Desktop/opengl/build/src/gl3w/CMakeFiles/edit_cache.dir
+/home/vimsiin/Desktop/opengl/build/src/gl3w/CMakeFiles/gl3w.dir

@@ -1,0 +1,44 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ARRAY_SIZE	gl3w/gl3w.c	32;"	d	file:
+WIN32_LEAN_AND_MEAN	gl3w/gl3w.c	36;"	d	file:
+close_libgl	gl3w/gl3w.c	/^static void close_libgl(void)$/;"	f	file:
+deltaTime	main.cpp	/^float deltaTime = 0.0f;$/;"	v
+display	gl3w/glfw_test.c	/^static void display(GLFWwindow *window)$/;"	f	file:
+display	gl3w/glut_test.c	/^static void display(void)$/;"	f	file:
+firstTime	main.cpp	/^bool firstTime = true;$/;"	v
+get_proc	gl3w/gl3w.c	/^static GL3WglProc get_proc(const char *proc)$/;"	f	file:
+gl3wGetProcAddress	gl3w/gl3w.c	/^GL3WglProc gl3wGetProcAddress(const char *proc)$/;"	f
+gl3wInit	gl3w/gl3w.c	/^int gl3wInit(void)$/;"	f
+gl3wInit2	gl3w/gl3w.c	/^int gl3wInit2(GL3WGetProcAddressProc proc)$/;"	f
+gl3wIsSupported	gl3w/gl3w.c	/^int gl3wIsSupported(int major, int minor)$/;"	f
+gl3wProcs	gl3w/gl3w.c	/^union GL3WProcs gl3wProcs;$/;"	v	typeref:union:GL3WProcs
+glx_get_proc_address	gl3w/gl3w.c	/^static GL3WglProc (*glx_get_proc_address)(const GLubyte *);$/;"	v	file:
+height	gl3w/glfw_test.c	/^static int width = 600, height = 600;$/;"	v	file:
+height	gl3w/glut_test.c	/^static int width = 600, height = 600;$/;"	v	file:
+lastTime	main.cpp	/^float lastTime = 0.0f;$/;"	v
+libgl	gl3w/gl3w.c	/^static HMODULE libgl;$/;"	v	file:
+libgl	gl3w/gl3w.c	/^static void *libgl;$/;"	v	file:
+load_procs	gl3w/gl3w.c	/^static void load_procs(GL3WGetProcAddressProc proc)$/;"	f	file:
+main	gl3w/glfw_test.c	/^int main(int argc, char **argv)$/;"	f
+main	gl3w/glut_test.c	/^int main(int argc, char **argv)$/;"	f
+main	main.cpp	/^int main(void) {$/;"	f
+major	gl3w/gl3w.c	/^	int major, minor;$/;"	m	struct:__anon1	file:
+minor	gl3w/gl3w.c	/^	int major, minor;$/;"	m	struct:__anon1	file:
+open_libgl	gl3w/gl3w.c	/^static int open_libgl(void)$/;"	f	file:
+parse_version	gl3w/gl3w.c	/^static int parse_version(void)$/;"	f	file:
+proc_names	gl3w/gl3w.c	/^static const char *proc_names[] = {$/;"	v	file:
+processInput	main.cpp	/^void processInput(GLFWwindow *window) {$/;"	f
+randf	gl3w/glfw_test.c	/^static float randf()$/;"	f	file:
+randf	gl3w/glut_test.c	/^static float randf()$/;"	f	file:
+reshape	gl3w/glfw_test.c	/^static void reshape(GLFWwindow *window, int w, int h)$/;"	f	file:
+reshape	gl3w/glut_test.c	/^static void reshape(int w, int h)$/;"	f	file:
+version	gl3w/gl3w.c	/^} version;$/;"	v	typeref:struct:__anon1	file:
+wgl_get_proc_address	gl3w/gl3w.c	/^static PROC (__stdcall *wgl_get_proc_address)(LPCSTR);$/;"	v	file:
+width	gl3w/glfw_test.c	/^static int width = 600, height = 600;$/;"	v	file:
+width	gl3w/glut_test.c	/^static int width = 600, height = 600;$/;"	v	file:
+world	main.cpp	/^World* world = new World;$/;"	v

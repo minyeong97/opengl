@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/gl3w/gl3w.h
+GL/glcorearb.h
+-
+
+/home/vimsiin/Desktop/opengl/src/gl3w/gl3w.c
+gl3w/gl3w.h
+-
+stdlib.h
+-
+windows.h
+-
+dlfcn.h
+-
+dlfcn.h
+-
+

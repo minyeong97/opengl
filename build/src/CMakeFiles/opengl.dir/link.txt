@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/opengl.dir/main.cpp.o CMakeFiles/opengl.dir/world.cpp.o CMakeFiles/opengl.dir/camera.cpp.o  -o opengl  ../../lib/libglfw3.a -lm -ldl -lpthread -lGL gl3w/libgl3w.a -ldl 
